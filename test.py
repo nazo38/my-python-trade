@@ -8,4 +8,4 @@ df = pd.DataFrame(data)
 # 平均を計算
 平均価格 = df['価格'].mean()
 
-print(f"平均価格: {平均価格}")
+print(f"平均価格: {平均価格}")          
